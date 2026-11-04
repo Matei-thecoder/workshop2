@@ -1,0 +1,14 @@
+{
+  "title": "TheNature's Corner",
+  "description": "Explore nature and wildlife around the world through engaging photos and articles about animals, trees, and the natural environment.",
+  "icons": {
+    "icon": ""
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
